@@ -1,1 +1,2 @@
 hello from file 2
+I changed file 2 in next commit
